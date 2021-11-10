@@ -5,6 +5,12 @@ h1{
 .wrapper{
     text-align: center;
 }
+.container{
+    display: inline-block;
+    background-color: #4f5d75;
+    padding: 10px;
+    border-radius: 25px;
+}
 
 input{
     width: 300px;
@@ -18,10 +24,24 @@ table{
 }
 
 table button{
+    background: #ef8354;
     border: 3px solid black;
-    border-radius: 40px;    
+    border-radius: 40px;
     font-size: 39px;
     width: 70px;
     height: 75px;
     margin: 4px;
+    color: #2d3142;
+}
+
+#clear{
+    background-color: #ffffff;
+}
+#equals{
+    background-color: #bfc0c0;
+}
+
+.operators{
+    color: #ffffff;
+    
 }
