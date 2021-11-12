@@ -53,6 +53,10 @@ table button{
 #equals{
     background-color: #bfc0c0;
 }
+#del{
+    font-size: 25px;
+    background-color: black;
+}
 
 .operators{
     color: #ffffff;
